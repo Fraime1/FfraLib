@@ -42,7 +42,7 @@ publishing {
     publications {
         release(MavenPublication) {
             groupId = 'com.github.Fraime1'
-            artifactId = 'FFWLib'
+            artifactId = 'FfraLib'
             version = '1.0.0'
 
             afterEvaluate {
